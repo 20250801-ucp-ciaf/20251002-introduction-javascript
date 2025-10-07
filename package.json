@@ -6,7 +6,8 @@
   "scripts": {
     "exercise-01": "node exercises/01-exercise.js",
     "nicolas": "node exercises/02-exercise.js",
-    "ejercicio-03": "node exercises/03-ejercicio.js"
+    "ejercicio-03": "node exercises/03-ejercicio.js",
+    "ejercicio-04": "node exercises/04-ejercicio.js"
   },
   "keywords": [],
   "author": "",
