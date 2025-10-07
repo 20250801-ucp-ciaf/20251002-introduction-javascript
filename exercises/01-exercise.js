@@ -1,1 +1,5 @@
-console.log("diseño web " + new Date().toLocaleDateString());
+const colores = ["rojo", "azul", "verde"];
+
+colores.forEach((color) => {
+  console.log(`color: ${color}`);
+});
